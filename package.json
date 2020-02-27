@@ -1,4 +1,13 @@
 {
+  "main": "dist/index.js",
+  "module": "dist/index.js",
+  "files": [ "dist", "README.md" ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zilbuc/test-library"
+  },
+  "author": "ZB",
+  "keyword": ["test-library", "library that does nothing"],
   "name": "test-library",
   "version": "0.1.0",
   "dependencies": {
